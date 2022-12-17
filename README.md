@@ -1,5 +1,6 @@
 # a32bssc
 Simple OS
+a32bssc - advanced 32bit system super cool
 
 # Compile 
 1. nasm -f elf32 kernel.asm -o kasm.o
