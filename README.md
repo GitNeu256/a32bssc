@@ -10,3 +10,18 @@ a32bssc - advanced 32bit system super cool
 
 # Run in QEMU
 qemu-system-i386 -kernel kernel
+
+# Windows build 
+1. Install WSL
+   PowerShell: wsl --install
+2. Then install the version of the Linux distribution you are interested in in the Microsoft Store
+3. Register there
+4. Run the following commands for better compilation
+   sudo apt update
+   sudo apt upgrade
+   sudo install nasm
+   sudo install gcc
+5. Execute actions from compile point
+   
+# Windows Test
+Install QEMU from the official site (https://www.qemu.org/download/#windows)
