@@ -24,4 +24,5 @@ qemu-system-i386 -kernel kernel
 5. Execute actions from compile point
    
 # Windows Test
-Install QEMU from the official site (https://www.qemu.org/download/#windows)
+1. Install QEMU from the official site (https://www.qemu.org/download/#windows)
+2. Execute actions from "Run in QEMU" point 
